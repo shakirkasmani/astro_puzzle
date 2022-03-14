@@ -1,9 +1,18 @@
 ## Astro Puzzle
 **Astro puzzle is a slide puzzle game, Game view is of spaceship cockpit, which have controls and console widgets on cockpit, here is the story of Dashtronaut [as teased on Twitter](https://twitter.com/ShakirKasmani/status/1496810010273193984) who is on mission to host Flutter flag on moon**
 
+## Screenshots 
+<p float="center">
+  <img src="preview/phone.png" height="400" />
+  <img src="preview/tablet.png" height="400" /> 
+</p>
+<p float="center">
+  <img src="preview/3.png" height="400" />
+</p>
+
 Build on Flutter Framework with super simple Dart Language and Rive Animation
 
-**Accomplishments that we're proud of**
+**Accomplishments that I am proud of**
 _To create such a game within short period of time for so many platform & screen size._
 
 **What I learned**
