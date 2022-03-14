@@ -7,7 +7,7 @@
   <img src="preview/tablet.png" height="400" /> 
 </p>
 <p float="center">
-  <img src="preview/3.png" height="400" />
+  <img src="preview/web.png" height="400" />
 </p>
 
 Build on Flutter Framework with super simple Dart Language and Rive Animation
